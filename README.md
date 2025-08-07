@@ -56,8 +56,7 @@ LibraryManagement/
 ```bash
 javac *.java
 
-### Run
-```bash
+### Run:
 java Main
 
 
